@@ -1,0 +1,24 @@
+Website notes:
+Single page website
+
+Lilypad
+A lower cost way of securely crowdsourcing AI & ETL computation with distributed ledger technology
+
+Video demo from Luke 
+
+How to use it
+Install
+Run client
+Run node
+Link to docs
+Email founders@lilypad.tech
+Slack
+
+Dave exec chair - creator of k8s at Google, CEO Expanso
+Ally CEO - web3 leader, filecoin foundation
+Luke CTO - founder MLOps community, sig lead kubernetes
+Kai architect - blockchain technology partners, k8s
+Levi - boinc, gridcoin, game theory researcher
+Juan - advisor, founder PL
+
+
